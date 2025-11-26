@@ -1,7 +1,5 @@
 /**
- * CONTEXTO DE TEMA (DARK MODE)
- * 
- * Este contexto maneja el estado global del tema de la aplicación
+ * Modo negro
  * Permite cambiar entre modo claro y oscuro en toda la aplicación
  */
 
